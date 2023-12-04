@@ -40,6 +40,9 @@ DefaultProps
 Introducción general a los Hooks
 useState
 
+## Pruebas unitarias y de integración
+
+### Temas puntuales
 
 ¿Qué veremos en esta sección?
 
