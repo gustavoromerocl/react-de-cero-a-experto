@@ -9,7 +9,7 @@ describe('Pruebas en 05-funciones', () => {
 
     const user = getUser();
 
-    expext(testUser).toEqual(user);
+    expect(testUser).toEqual(user);
   })
 
   describe('GetUsuarioActivo debe retornar un objeto', () => {

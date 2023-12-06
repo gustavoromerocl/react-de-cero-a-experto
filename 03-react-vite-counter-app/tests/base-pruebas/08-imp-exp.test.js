@@ -3,18 +3,18 @@ import { getHeroeById, getHeroesByOwner } from "../../src/base-pruebas/08-imp-ex
 describe('Pruebas en 08-imp-exp', () => {
   test('getHeroByID debe retornar un héroe por id', () => {
     const id = 1;
-    const hero = getHeroeById(id)
-  })
+    const hero = getHeroeById(id);
 
-  expect(hero).toEqual({
-    id: 1,
-    name: 'Batman',
-    owner: 'DC'
+    expect(hero).toEqual({
+      id: 1,
+      name: 'Batman',
+      owner: 'DC'
+    })
   })
 
   describe('getHeroByID debe retornar undefined si no existe', () => {
     const id = 100;
-    const hero = getHeroById(id);
+    const hero = getHeroeById(id);
 
     expect(hero).toBeFalsy();
   })
