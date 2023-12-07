@@ -2,14 +2,14 @@ import { render, screen } from "@testing-library/react"
 import { FirstApp } from "../src/FirstApp"
 
 describe('debe validar el titulo', () => {
+  const title = 'Hola soy gustavo';
   test('debe hacer match con el snapshot', () => {
-    const title = 'Hola soy gustavo';
     const { container } = render(<FirstApp title={title} />);
     expect(container).toMatchSnapshot();
   })
 
   test('debe hacer match con el snapshot', () => {
-    const { container } = render(<FirstApp title={title} />);
+    render(<FirstApp title={title} />);
     expect(screen.getByText(title).toBeTruthy());
   })
 
@@ -19,10 +19,11 @@ describe('debe validar el titulo', () => {
   })
 
   test('Debe de mostrar el subtitulo enviado por props', () => {
+    const subTitle = 'hello world';
     render(<FirstApp
       title={title}
       subTitle={subTitle}
     />);
-    expect(screen.getAllByText(subtitle).length).toBe(2);
+    expect(screen.getAllByText(subTitle).length).toBe(2);
   })
 })
