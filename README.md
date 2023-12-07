@@ -59,3 +59,19 @@ Enzyme
 Comandos útiles en la terminal para pruebas
 Revisar elementos renderizados en el componente
 Simular eventos
+
+## GifExpertApp - Aplicación
+
+### Temas puntuales de la sección
+
+Custom Hooks
+Fetch hacia un API
+Comunicación entre componentes
+Clases de CSS
+Animaciones
+Enviar métodos como argumentos
+Crear listados
+keys
+Giphy
+
+Esta es una aplicación pequeña pero muy ilustrativa que explica cómo utilizar React + customHooks para poder resolver necesidades en específico que podremos re-utilizar después.
