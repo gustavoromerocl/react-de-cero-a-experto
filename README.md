@@ -121,3 +121,24 @@ Evaluar si existen elementos en el componente
 
 En esta sección seguiremos expandiendo todo lo que habíamos visto anteriormente en otras secciones de pruebas, pero ahora veremos más a detalle los temas y adicionalmente introduciremos nuevos conceptos y nuevos tipos de pruebas.
 
+## Profundizando hooks generales
+
+### Temas puntuales de la sección
+
+¿Qué veremos en esta sección?
+
+- Profundizar en el tema de los Hooks
+- Crear otros customHooks
+- useState
+- useCounter - Personalizado
+- useEffect y sus precauciones
+- useRef
+- useFetch - Personalizado + optimizaciones
+- useLayoutEffect
+- Memo
+- useMemo
+- useCallback
+
+Estos son los Hooks relativamente simples, aún hay mas que explicaremos más adelante, pero en esta sección nos enfocaremos en estos trabajos y para qué nos pueden servir.
+
+Adicionalmente estaremos dejando las bases para lo que será una sección de pruebas sumamente interesante después.
