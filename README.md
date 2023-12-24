@@ -142,3 +142,16 @@ En esta sección seguiremos expandiendo todo lo que habíamos visto anteriorment
 Estos son los Hooks relativamente simples, aún hay mas que explicaremos más adelante, pero en esta sección nos enfocaremos en estos trabajos y para qué nos pueden servir.
 
 Adicionalmente estaremos dejando las bases para lo que será una sección de pruebas sumamente interesante después.
+
+### Temas puntuales de la sección
+
+¿Qué veremos en esta sección?
+
+useReducer
+Reducers
+Teoría de un reducer
+Aplicación de TODOs
+CRUD local
+
+Esta es una sección dedicada a comprender el concepto de un Reducer, el cual es sumamente importante para poder entrar a Redux o bien usar el contextAPI fácilmente.
+
