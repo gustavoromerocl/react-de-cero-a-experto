@@ -143,6 +143,8 @@ Estos son los Hooks relativamente simples, aún hay mas que explicaremos más ad
 
 Adicionalmente estaremos dejando las bases para lo que será una sección de pruebas sumamente interesante después.
 
+## Profundizando Hooks: UseReducer
+
 ### Temas puntuales de la sección
 
 ¿Qué veremos en esta sección?
@@ -154,4 +156,20 @@ Aplicación de TODOs
 CRUD local
 
 Esta es una sección dedicada a comprender el concepto de un Reducer, el cual es sumamente importante para poder entrar a Redux o bien usar el contextAPI fácilmente.
+
+## Profundizando Hooks: UseContext
+
+### Temas puntuales de la sección
+
+¿Qué veremos en esta sección?
+
+Context
+Provider
+useContext
+React Router
+Links y NavLinks
+CreateContext
+SPA ( Single Page Application )
+
+El objetivo de la sección es principalmente aprender sobre el Context, el Router es un valor agregado que explotaremos mucho más en próximas secciones, pero al usar un Router, podemos explicar claramente el problema y necesidad del context.
 
