@@ -173,3 +173,12 @@ SPA ( Single Page Application )
 
 El objetivo de la sección es principalmente aprender sobre el Context, el Router es un valor agregado que explotaremos mucho más en próximas secciones, pero al usar un Router, podemos explicar claramente el problema y necesidad del context.
 
+## Pruebas unitarias y de integración - Hooks
+
+### Temas puntuales de la sección
+
+¿Qué veremos en esta sección?
+
+Pruebas sobre Hooks y CustomHooks
+Ese es el tema principal, demostrar cómo podemos evaluar cada unos de los hooks aplicados anteriormente con sus casos reales de uso.
+Hay varios extras, como la prueba de un Reducer, que realmente no es nada complicado, también quiero aclarar qué nos toca evaluar a nosotros y qué no es responsabilidad nuestra.
