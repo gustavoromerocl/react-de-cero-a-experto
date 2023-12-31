@@ -182,3 +182,23 @@ El objetivo de la sección es principalmente aprender sobre el Context, el Route
 Pruebas sobre Hooks y CustomHooks
 Ese es el tema principal, demostrar cómo podemos evaluar cada unos de los hooks aplicados anteriormente con sus casos reales de uso.
 Hay varios extras, como la prueba de un Reducer, que realmente no es nada complicado, también quiero aclarar qué nos toca evaluar a nosotros y qué no es responsabilidad nuestra.
+
+## Heroes APP -Single page application (SPA)
+
+### Temas puntuales de la sección
+
+- ¿Qué veremos en esta sección?
+- SPA ( Single Page Application ) a profundidad
+- Diferentes temas en la misma aplicación aplicados a diferentes rutas
+- Multiples Routers
+- Push y Replace en el History
+- Leer argumentos por URL
+- QueryParams
+- Aplicar filtros utilizando QueryStrings
+
+En esta sección aún no haremos protección de rutas, pero dejaremos el estilo de esos componentes listos para la siguiente sección.
+
+
+
+
+
