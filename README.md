@@ -198,6 +198,25 @@ Hay varios extras, como la prueba de un Reducer, que realmente no es nada compli
 
 En esta sección aún no haremos protección de rutas, pero dejaremos el estilo de esos componentes listos para la siguiente sección.
 
+## Protección de rutas
+
+### Temas puntuales de la sección
+
+¿Qué veremos en esta sección?
+
+Rutas públicas
+
+Rutas privadas
+
+Login y logout - Sin backend aún
+
+Recordar cuál fue la última ruta visitada para mejorar la experiencia de usuario.
+
+Context
+
+Reducer
+
+Esta es una sección pequeña pero importante para trabajar las bases de la autenticación y protección de nuestra aplicación.
 
 
 
