@@ -205,19 +205,30 @@ En esta sección aún no haremos protección de rutas, pero dejaremos el estilo 
 ¿Qué veremos en esta sección?
 
 Rutas públicas
-
 Rutas privadas
-
 Login y logout - Sin backend aún
-
 Recordar cuál fue la última ruta visitada para mejorar la experiencia de usuario.
-
 Context
-
 Reducer
 
 Esta es una sección pequeña pero importante para trabajar las bases de la autenticación y protección de nuestra aplicación.
 
+## Protección de rutas
 
+### Temas puntuales de la sección
 
+¿Qué veremos en esta sección?
 
+Nuevos tipos de pruebas
+Pruebas en rutas privadas y públicas
+MemoryRouter
+Pruebas en nuestro DashboardRouter
+Pruebas en el AppRouter
+Simular URLs y segmentos
+Simular queryParams y queryStrings
+
+Recuerden que el objetivo de las pruebas, es ir probando cosas nuevas cada vez y tener un repertorio completo de diferentes casos.
+
+## Resources
+
+(https://gist.github.com/Klerith/ca7e57fae3c9ab92ad08baadc6c26177)[Instalación Jest]
