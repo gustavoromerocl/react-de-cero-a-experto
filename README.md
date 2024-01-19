@@ -240,6 +240,28 @@ Diferentes componentes de material
 Uso de funciones propias de MaterialUI
 Configuración de temas personalizados
 
+## Redux: ¿ Qué es y conceptos ? + React Redux
+
+### Temas puntuales de la sección
+
+¿Qué veremos en esta sección?
+
+Redux
+Store
+Middlewares
+Dispatch
+Actions
+State
+Acciones asíncronas
+RTK Query
+Redux Toolkit
+Slices
+
+Es una sección sumamente pequeña, pero quiero darles una explicación teórica sobre Redux antes de entrar en él, pero la ventaja es que para estas alturas, ya deberíamos de saber sobre el Reducer, el cual es el corazón del Redux, por consecuencia aprender Redux en este instante debería ser más fácil!
+
+
+
+
 ## Resources
 
 (https://gist.github.com/Klerith/ca7e57fae3c9ab92ad08baadc6c26177)[Instalación Jest]
