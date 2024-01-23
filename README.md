@@ -257,9 +257,31 @@ RTK Query
 Redux Toolkit
 Slices
 
+## Introducción a Redux y autenticación en Firebase
+
 Es una sección sumamente pequeña, pero quiero darles una explicación teórica sobre Redux antes de entrar en él, pero la ventaja es que para estas alturas, ya deberíamos de saber sobre el Reducer, el cual es el corazón del Redux, por consecuencia aprender Redux en este instante debería ser más fácil!
 
+¿Qué veremos en esta sección?
 
+Redux aplicado en nuestro proyecto
+
+Firebase
+
+FireStore
+
+Redux Devtools
+
+Thunk
+
+Formularios
+
+Google SingIn
+
+Acciones Asíncronas
+
+Mantener el estado de la autenticación
+
+En esta sección configuraremos Redux en nuestro proyecto por primera vez, aplicado al inicio en la parte de la autenticación y mantener el estado de la misma a lo largo de toda la aplicación.
 
 
 ## Resources
