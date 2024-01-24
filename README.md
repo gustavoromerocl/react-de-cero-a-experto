@@ -283,6 +283,17 @@ Mantener el estado de la autenticación
 
 En esta sección configuraremos Redux en nuestro proyecto por primera vez, aplicado al inicio en la parte de la autenticación y mantener el estado de la misma a lo largo de toda la aplicación.
 
+## Journal app - redux - CRUD en Firestore y subida de archivos
+
+¿Qué veremos en esta sección?
+
+CRUD hacia Firestore
+Expandiendo nuestro store añadiendo otros reducers
+Seleccionar y subir archivos
+Animaciones adicionales a nuestra aplicación
+Limpieza en el logout
+Esta sección está enfocada ahora en las entradas de nuestro diario, asegurándose de que grabe únicamente en el documento del usuario autenticado.
+
 
 ## Resources
 
